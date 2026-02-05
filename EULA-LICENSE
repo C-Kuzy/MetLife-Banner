@@ -19,7 +19,7 @@ distribute, and sublicense the Software, including for open-source and commercia
 Any use, redistribution, modification, or derivative work of the Software must include
 clear and visible attribution to the original author and licensor:
 
-"Original software © 2024-2025 Connor Kouznetsov (C-Kuzy Solutions).
+"Original software © 2024-2026 Connor Kouznetsov (C-Kuzy Solutions).
 Used under the C-Kuzy Solutions License."
 
 This attribution must appear in:
@@ -37,7 +37,9 @@ Attribution may not be removed, obscured, minimized, or replaced.
 All source files containing any portion of the Software must include the following
 short-form header at the top of each file, or an equivalent clearly visible notice:
 
-"© 2025 Connor Kouznetsov (C-Kuzy Solutions)
+"© 2026 Metropolitan Life Insurance Company, New York, NY. All Rights reserved"
+
+"© 2026 Connor Kouznetsov (C-Kuzy Solutions)
 Licensed under the C-Kuzy Solutions EULA. Attribution required."
 
 Failure to include this header (or an equivalent notice) constitutes a violation of
