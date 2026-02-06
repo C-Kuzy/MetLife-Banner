@@ -1,0 +1,14 @@
+{
+  "name": "metlife-gif-converter",
+  "version": "1.0.0",
+  "description": "Convert MetLife HTML animation to GIF",
+  "main": "convert_to_gif.js",
+  "scripts": {
+    "convert": "node convert_to_gif.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "gifencoder": "^2.0.1",
+    "canvas": "^2.11.2"
+  }
+}
